@@ -6,3 +6,17 @@ This application for Scrap twitter data and create a dataframe to download diffe
 ## Technologies
 
 snscrape,streamlit 
+
+### INSTALLATON
+
+pip install snscrape
+
+pip install streamlit
+
+pip install pandas
+
+### Run the application
+
+streamlit run scrappingGUI.py
+
+
