@@ -1,13 +1,17 @@
 # Scraptwitter
 
-This application for Scrap twitter data and create a dataframe to download different formate
+This application for Scrap twitter data and create a dataframe to download different formate .
+
+To get the real facts on Twitter, you want to scrape the data from Twitter. You Need to Scrape the data like (date, id, url, tweet content, user,reply count, retweet count,language, source, like count etc) from twitter.
 
 
-## Technologies
+## Build with
 
-snscrape,streamlit 
+snscrape
 
-### INSTALLATON
+streamlit
+
+## How to Install and Run the Project
 
 pip install snscrape
 
