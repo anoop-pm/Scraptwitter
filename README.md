@@ -35,6 +35,8 @@ pip install pymongo
 
 ### Run the application
 
+scrappingGUI.py is the fully completed project to run the application follow the step below.
+
 streamlit run scrappingGUI.py
 
 
