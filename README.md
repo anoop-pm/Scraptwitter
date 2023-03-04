@@ -40,7 +40,7 @@ scrappingGUI.py is the fully completed project to run the application follow the
 streamlit run scrappingGUI.py
 
 
-### scrappingtwitter approach is to identify how to build the 1-3 problems
+### scrappingtwitter approach is to identify how to build the Solution
 
 
 ## References
