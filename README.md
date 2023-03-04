@@ -1,8 +1,8 @@
 # Scraptwitter
 
 This application is for Scrap Twitter data and creating a data frame to download different formats.
-
-To get the real facts on Twitter, you want to scrape the data from Twitter. You Need to Scrape the data like (date, id, URL, tweet content, user, reply count, retweet count, language, source, like count, etc) from Twitter.
+ 
+To get the real facts on Twitter to scrape the data from Twitter feeds.Scrape the data like (date, id, URL, tweet content, user, reply count, retweet count, language, source, like count, etc) from Twitter.
 
 
 ## Build with
